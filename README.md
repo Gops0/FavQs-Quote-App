@@ -14,4 +14,14 @@ UI Framework: Android SDK
 Network: Retrofit for API calls
 
 
+## Screenshots
+
+![Screenshot 1](favqs_Splash.jpeg)
+*Home screen with random quote*
+
+![Screenshot 2](favqs.jpeg)
+*Refreshing to get a new quote*
+
+
+
 
