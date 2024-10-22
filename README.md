@@ -1,5 +1,4 @@
 # FavQs-Quote-App
-# FavQs Quote App
 
 **FavQs Quote App** is an Android application that allows users to explore, view, and share inspiring quotes. The app interacts with the **FavQs API**, fetching random quotes from a variety of authors and categories. It is designed to be simple, user-friendly, and efficient, providing users with a seamless experience for browsing motivational quotes.
 
@@ -47,8 +46,7 @@ The app uses the [FavQs API](https://favqs.com/api) to retrieve quotes. Here’s
 Example API Call:
 ```bash
 GET https://favqs.com/api/qotd
-
-
+   ```
 
 ## Screenshots
 
