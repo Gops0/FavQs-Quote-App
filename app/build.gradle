@@ -68,6 +68,17 @@ dependencies {
     implementation 'com.airbnb.android:lottie:5.0.3' // or the latest version
 
 
+    // Material Design
+    implementation 'com.google.android.material:material:1.4.0'
+
+    // Lottie Animation
+    implementation 'com.airbnb.android:lottie:3.4.0'
+
+    // RecyclerView
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+
+    // SwipeRefreshLayout
+    implementation libs.androidx.swiperefreshlayout
 
 
 }

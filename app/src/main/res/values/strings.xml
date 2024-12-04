@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">favqs</string>
+
+<!-- Base application theme -->
+<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <item name="colorPrimary">@color/primary</item>
+    <item name="colorPrimaryVariant">@color/primary_variant</item>
+    <item name="colorSecondary">@color/secondary</item>
+    <item name="android:windowBackground">@color/background</item>
+    <item name="android:statusBarColor">@color/primary</item>
+</style>
+
+<!-- Quote Text Styles -->
+<style name="QuoteTextStyle">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">@color/quote_text_color</item>
+    <item name="android:lineSpacingMultiplier">1.3</item>
+</style>
+
+<style name="QuoteAuthorStyle">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/quote_author_color</item>
+    <item name="android:textStyle">italic</item>
+</style>
+
+
+
 </resources>

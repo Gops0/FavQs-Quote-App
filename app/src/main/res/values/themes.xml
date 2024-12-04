@@ -6,4 +6,20 @@
     </style>
 
     <style name="Theme.Favqs" parent="Base.Theme.Favqs" />
+<!-- Base application theme -->
+<style name="Theme.InspirationalQuotes" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <!-- Primary brand color. -->
+    <item name="colorPrimary">@color/primary</item>
+    <item name="colorPrimaryVariant">@color/primary_variant</item>
+    <item name="colorSecondary">@color/secondary</item>
+
+    <!-- Status bar color. -->
+    <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    <!-- Customize your theme here. -->
+    <item name="android:windowBackground">@color/background</item>
+    <item name="android:windowLightStatusBar">true</item>
+</style>
+
+
 </resources>

@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="splash_background">#FFBB86FC</color>
+
+<color name="background">#FFFFFF</color>
+<color name="surface">#FFFFFF</color>
+<color name="error">#B00020</color>
+<color name="on_primary">#FFFFFF</color>
+<color name="on_secondary">#000000</color>
+<color name="on_background">#000000</color>
+<color name="on_surface">#000000</color>
+<color name="on_error">#FFFFFF</color>
+
+<!-- Custom Quote Colors -->
+
+<color name="quote_card_background">#F5F5F5</color>
+
+        <!-- Base Colors -->
+        <color name="background_color">#F5F5F5</color>
+        <color name="primary_text_color">#333333</color>
+        <color name="secondary_text_color">#666666</color>
+
+        <!-- Material Design Color Palette -->
+        <color name="primary">#3F51B5</color>
+        <color name="primary_variant">#303F9F</color>
+        <color name="secondary">#FF4081</color>
+
+        <!-- Quote Specific Colors -->
+        <color name="quote_background">#FFFFFF</color>
+        <color name="quote_text_color">#212121</color>
+        <color name="quote_author_color">#757575</color>
+        <color name="quote_icon_color">#3F51B5</color>
+
+        <!-- Additional Accent Colors -->
+        <color name="accent_light">#7986CB</color>
+        <color name="accent_dark">#303F9F</color>
+
+                <!-- Additional Dark Theme Colors -->
+                <color name="icon_tint_dark">#BB86FC</color>
+
+
+                <!-- Light Theme Colors -->
+                <color name="background_light">#F5F5F5</color>
+                <color name="surface_light">#FFFFFF</color>
+                <color name="primary_text_light">#212121</color>
+                <color name="secondary_text_light">#757575</color>
+                <color name="primary_light">#3F51B5</color>
+                <color name="secondary_light">#FF4081</color>
+
+                <!-- Dark Theme Colors -->
+                <color name="background_dark">#121212</color>
+                <color name="surface_dark">#1E1E1E</color>
+                <color name="card_background_dark">#2C2C2C</color>
+                <color name="primary_text_dark">#FFFFFF</color>
+                <color name="secondary_text_dark">#B3FFFFFF</color>
+                <color name="primary_dark">#BB86FC</color>
+                <color name="secondary_dark">#03DAC6</color>
+
+                <!-- Common Colors -->
+                <color name="stroke_color">#E0E0E0</color>
+                <color name="stroke_dark">#3A3A3A</color>
+
 </resources>
